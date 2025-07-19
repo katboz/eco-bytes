@@ -4,3 +4,9 @@
   --background: #cc9494;
   --foreground: #171717;
 }
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #cc9494;
+}
